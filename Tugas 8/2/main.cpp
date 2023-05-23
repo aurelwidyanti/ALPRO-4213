@@ -1,5 +1,3 @@
-//2 metode sorting dari besar ke kecil
-
 #include <iostream>
 
 using namespace std;
