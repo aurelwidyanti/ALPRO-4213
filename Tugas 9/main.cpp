@@ -52,10 +52,10 @@ int pangkat (int a, int b) {
 
 int main()
 {
-    cout << penjumlahan (5,7) << endl;
-    cout << pengurangan (10,6) << endl;
-    cout << perkalian (5,8) << endl;
-    cout << pembagian (15,3) << endl;
-    cout << pangkat (3,4) << endl;
+    cout << penjumlahan (5,9) << endl;
+    cout << pengurangan (10,3) << endl;
+    cout << perkalian (5,5) << endl;
+    cout << pembagian (30,3) << endl;
+    cout << pangkat (5,4) << endl;
     return 0;
 }
